@@ -115,3 +115,8 @@ Store that value as an Actions secret. Never commit it.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+## Author
+
+Arif Khan, Senior Salesforce Developer (Health Cloud, OmniStudio, Apex/LWC, integrations).
+[LinkedIn](https://www.linkedin.com/in/arif-khan-99102a427) · [GitHub](https://github.com/arifkhanshaukat-bot)
